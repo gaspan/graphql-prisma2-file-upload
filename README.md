@@ -311,8 +311,10 @@ npx prisma2 generate
 - Track the Prisma Framework's progress on [`isprisma2ready.com`](https://isprisma2ready.com)
 
 ### how to upload image
-to upload image in graphql, i recomend to use altair <https://altair.sirmuel.design/> . After installation, you can follow step as bellow :
+to upload image in graphql, i recomend to use altair <https://altair.sirmuel.design/>. 
+After installation, you can follow step as bellow :
 
-upload image GraphQl using Altair: 
-![alt text](src/documents/H-1I_-d6-image upload graphql using altair.PNG-image upload graphql using altair.PNG "How to Upload")
+upload image GraphQl using Altair:
+
+![alt text](src/documents/H-1I_-d6-image%20upload%20graphql%20using%20altair.PNG-image%20upload%20graphql%20using%20altair.PNG "How to Upload")
 
