@@ -4,3 +4,4 @@ node_modules/
 src/documents/*
 # exception to the rule
 !src/documents/.gitkeep 
+!src/documents/H-1I_-d6-image upload graphql using altair.PNG-image upload graphql using altair.PNG
