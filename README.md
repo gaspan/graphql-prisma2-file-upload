@@ -314,5 +314,5 @@ npx prisma2 generate
 to upload image in graphql, i recomend to use altair <https://altair.sirmuel.design/> . After installation, you can follow step as bellow :
 
 upload image GraphQl using Altair: 
-![alt text](https://github.com/gaspan/graphql-prisma2-file-upload/src/documents/H-1I_-d6-image upload graphql using altair.PNG-image upload graphql using altair.PNG "How to Upload")
+![alt text](src/documents/H-1I_-d6-image upload graphql using altair.PNG-image upload graphql using altair.PNG "How to Upload")
 
